@@ -1,7 +1,9 @@
+
+
 const worksData = [
     {
         title : "Web Design",
-        img : "/src/assets/work-1.webp",
+        img : "./assets/work-1.webp",
         cat : "web",
         modalTitle : "Web landing design & app maintain.",
         desc : "Lorem ipsum, dolor sit amet consectetur adipisicing. elic tarum impedic voluptatbus minima",
@@ -12,7 +14,7 @@ const worksData = [
     },
     {
         title : "App Design",
-        img: "/src/assets/work-2.webp",
+        img: "./assets/work-2.webp",
         cat : "app",
         modalTitle : "Mobile app landing design & app maintain.",
         desc : "Lorem ipsum, dolor sit amet consectetur adipisicing. elic tarum impedic voluptatbus minima",
@@ -23,7 +25,7 @@ const worksData = [
     },
     {
         title : "Brand Design",
-        img : "/src/assets/work-3.webp",
+        img : "./assets/work-3.webp",
         cat : "web",
         modalTitle : "Web landing design & app maintain.",
     
