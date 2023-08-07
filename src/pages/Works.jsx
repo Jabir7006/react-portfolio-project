@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react";
-import worksData from "./../worksData";
+
 import { MdOutlineClose } from "react-icons/md";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import Testomonials from "./Testomonials";
+import { worksData } from "../worksData";
 
 const Works = () => {
   const [activeOption, setActiveOption] = useState("All");
